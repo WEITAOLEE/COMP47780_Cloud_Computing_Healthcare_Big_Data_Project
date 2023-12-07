@@ -1,0 +1,18 @@
+{
+  "name": "comp47780_cloud_computing_healthcare_big_data_project",
+  "version": "1.0.0",
+  "description": "This is my project regarding to Healthcare Big Data Management for the module of Cloud Computing during my Masters Programme researching.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1512.0",
+    "express": "^4.18.2",
+    "pg": "^8.11.3",
+    "pg-native": "^3.0.1"
+  }
+}
